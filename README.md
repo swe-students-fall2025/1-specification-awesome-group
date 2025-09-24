@@ -14,7 +14,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
-Our app provides a secure marketplace exclusively for NYU students to buy, sell, or give away textbooks and furniture, making it easier to find course materials by class and professor while ensuring safer, community-based exchanges.
+Our app provides a secure marketplace exclusively for NYU students to buy, sell, or give away textbooks, making it easier to find course materials by class and professor while ensuring safer, community-based exchanges.
 
 ## User Requirements
 1. As a user, I want to create a profile so that I can participate in buying, selling, and rating safely.
