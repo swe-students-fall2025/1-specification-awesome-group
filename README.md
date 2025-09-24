@@ -17,12 +17,14 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 Our app provides a secure marketplace exclusively for NYU students to buy, sell, or give away textbooks and furniture, making it easier to find course materials by class and professor while ensuring safer, community-based exchanges.
 
 ## User Requirements
-1. As an NYU student, I want to create a profile so that I can participate in buying, selling, and rating safely.
-2. As a user, I want to post an item with details such as category, course number, and professor so that others can easily find what they need.
+1. As a user, I want to create a profile so that I can participate in buying, selling, and rating safely.
+2. As a user, I want to be able to change my profile so that I can present myself authentically and safely on the platform.
+2. As a seller, I want to post an item with details such as category, course number, and professor so that potential buyers can find what they need.
 3. As a buyer, I want to search for textbooks by course number and professor so that I can quickly find relevant materials.
 4. As a buyer, I want to filter search results by item category, price, or condition to find the best match for my needs.
-5. As a user, I want to rate sellers on the quality of items, timeliness, and personality so that others can trust their listings.
+5. As a buyer, I want to rate sellers on the quality of items, timeliness, and personality so that others can trust their listings.
 6. As a seller, I want to view my posted items and edit or remove them as needed.
+7. As a seller, I want to show the prices
 7. As a user, I want to message other users within the app to negotiate or ask questions about an item.
 8. As a user, I want to receive notifications when someone messages me or when an item I'm interested in is updated.
 9. As a user, I want to view other users' profiles and their ratings before deciding to buy or trade.
