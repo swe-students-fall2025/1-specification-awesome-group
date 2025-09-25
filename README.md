@@ -11,7 +11,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder #1: Colin Chau (Junior at NYU)
+I once sold my used textbooks at the NYU Bookstore and got only $4 for 3 books. I wanted to sell used textbooks because I wanted a way to get rid of books that I no longer need, but also be able to make some of the money back from purchasing them at retail pricing. I found it ridiculous that I was only able to get $4 back, and would love to sell my books on a NYU student-run app. This way, I can be assured that my textbooks will go to another student taking the same class, and I can have a say in the pricing of them too. 
+
+### Stakeholder #2: Kaitlyn Chau (Recent NYU Graduate)
+I had to buy a textbook through Facebook marketplace once, and I wish there was an app to facilitate course material selling in just the NYU community. I usually opt for finding free versions of textbooks online or buying it second hand, but it is usually hard to find. I feel like an app that is only for the NYU community means that transactions are a lot safer, and the chances that I will find a book that I need is higher. I would also be interested in posting listings of my old textbooks so they don’t take up space in my apartment. 
 
 ## Product Vision Statement
 Our app provides a secure marketplace exclusively for NYU students to buy, sell, or give away textbooks, making it easier to find course materials by class and professor while ensuring safer, community-based exchanges.
