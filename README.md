@@ -17,6 +17,23 @@ I once sold my used textbooks at the NYU Bookstore and got only $4 for 3 books. 
 ### Stakeholder #2: Kaitlyn Chau (Recent NYU Graduate)
 I had to buy a textbook through Facebook marketplace once, and I wish there was an app to facilitate course material selling in just the NYU community. I usually opt for finding free versions of textbooks online or buying it second hand, but it is usually hard to find. I feel like an app that is only for the NYU community means that transactions are a lot safer, and the chances that I will find a book that I need is higher. I would also be interested in posting listings of my old textbooks so they don’t take up space in my apartment. 
 
+### Conclusion
+Based on our interviews, here are some problems and goals we can identify from our stakeholders:  
+
+**Problems:**
+1. The NYU Bookstore is one of the few places that provides a buyback option for used textbooks, but the compensation is much lower than the original purchase price
+2. General reselling platforms are accessible to anyone, which increases the risk of scams and unsafe transactions for students.
+3. Other reselling platforms are not marketplaces dedicated to textbooks, which makes it hard for students to find specific books they are required to have for class. 
+4. Without a dedicated platform for reselling textbooks, it is difficult for students to find textbooks at an affordable price, forcing them to either pay for the textbook at full price or spend a lot of time browsing on different platforms.  
+
+**Goals:**
+1. Having a platform that is exclusive to NYU students, so that textbook transactions can happen safely within the community.
+2. Having a platform that is exclusive to the NYU campus, so transactions and meet ups can be easily coordinated on campus. 
+3. Being able to negotiate the price of textbooks that they are reselling/purchasing.
+4. To provide a marketplace where students can easily find the class materials they need, without searching across multiple platforms or paying high prices.
+5. Foster a community environment where textbooks can be reused efficiently, reducing waste and costs for students.
+
+
 ## Product Vision Statement
 Our app provides a secure marketplace exclusively for NYU students to buy, sell, or give away textbooks, making it easier to find course materials by class and professor while ensuring safer, community-based exchanges.
 
