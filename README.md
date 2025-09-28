@@ -61,10 +61,10 @@ Our app provides a secure marketplace exclusively for NYU students to buy, sell,
 
 ## Activity Diagrams
 ### 1. As a user, I want to create a profile so that I can participate in buying, selling, and rating safely: 
-![UML activity diagram for user story 1](image.png)
+![UML activity diagram for user story 1](case_one.png)
 
-### 2. As a seller, I want to post an item with details such as category, course number, and professor so that potential buyers can find what they need.
-![UML activity diagram for user story 4](image-1.png)
+### 2. As a seller, I want to post an item with details such as category, course number, and price so that potential buyers can find what they need.
+![UML activity diagram for user story 4](case_two.png)
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
