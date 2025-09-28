@@ -67,4 +67,4 @@ Our app provides a secure marketplace exclusively for NYU students to buy, sell,
 ![UML activity diagram for user story 4](case_two.png)
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Click here for our Figma prototype](https://www.figma.com/design/Ps4NHAgrH6dZ0qI6uOreG2/Clickable-Prototype?node-id=0-1&p=f&t=LUDqfgKx3hKIpyvQ-0)
