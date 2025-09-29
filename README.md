@@ -1,6 +1,5 @@
-# Specification Phase Exercise
-
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
+# NYU Resells - Specification Phase Exercise
+An app for the NYU community that allows students to purchase and resell used textbooks from NYU classes.
 
 ## Team members
 
